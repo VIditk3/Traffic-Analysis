@@ -1,4 +1,4 @@
-# Traffic-Analysis
+# Traffic-Monitoring-And-Analysis
 
 This project is uses to monitor the traffic and then visulize the data.
 It detects the number of vehicles present at a time using OpenCV and send the data to Thingspeak.com. 
